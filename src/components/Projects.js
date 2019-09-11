@@ -115,7 +115,7 @@ class Projects extends Component {
             <Button colored>
               <a
                 style={{ textDecorationLine: "none" }}
-                href="​https://github.com/red-dove/grace-shopper" 
+                href='https://github.com/red-dove/grace-shopper'
                 target="_blank"  rel="noopener noreferrer"
               >
                 Github
@@ -156,7 +156,7 @@ class Projects extends Component {
             <Button colored>
               <a
                 style={{ textDecorationLine: "none" }}
-                href="​https://github.com/katrinrodkina/pwa-foody"  
+                href='https://github.com/katrinrodkina/pwa-foody'
                 target="_blank"  rel="noopener noreferrer"
               >
                 Github
