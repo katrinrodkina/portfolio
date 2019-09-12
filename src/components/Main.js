@@ -13,7 +13,7 @@ class Main extends Component {
             </div>
             <div className="banner-text">
               <h1>Full Stack Web Developer</h1>
-
+ <hr  />
               <p className="skills">
                 <i class="fab  fa-3xfa-html5"></i>{" "}
                 <i class="fab  fa-3x fa-css3-alt"></i>
