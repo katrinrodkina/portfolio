@@ -31,6 +31,8 @@ function App() {
             <div className="page-content"  />
             <Main />
             <Routes  />
+
+            <Main />
         </Content>
     </Layout>
 </div>
