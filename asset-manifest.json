@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.cb67c086.chunk.css",
+    "main.js": "/portfolio/static/js/main.befc9e74.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.befc9e74.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f7d4dbe8.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f7d4dbe8.js.map",
+    "static/css/2.60a6b8e0.chunk.css": "/portfolio/static/css/2.60a6b8e0.chunk.css",
+    "static/js/2.f7b53dce.chunk.js": "/portfolio/static/js/2.f7b53dce.chunk.js",
+    "static/js/2.f7b53dce.chunk.js.map": "/portfolio/static/js/2.f7b53dce.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.fb10cee94893472bac08d8aa271ccfaa.js": "/portfolio/precache-manifest.fb10cee94893472bac08d8aa271ccfaa.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.60a6b8e0.chunk.css.map": "/portfolio/static/css/2.60a6b8e0.chunk.css.map",
+    "static/css/main.cb67c086.chunk.css.map": "/portfolio/static/css/main.cb67c086.chunk.css.map",
+    "static/media/KatrinaRodkina-Resume.pdf": "/portfolio/static/media/KatrinaRodkina-Resume.f9437c43.pdf",
+    "static/media/avatar.png": "/portfolio/static/media/avatar.ebb86f63.png",
+    "static/media/foody.png": "/portfolio/static/media/foody.8e49f17f.png",
+    "static/media/mogsy.png": "/portfolio/static/media/mogsy.f78cda5a.png",
+    "static/media/timey.png": "/portfolio/static/media/timey.e9499dc3.png",
+    "static/media/trivia.png": "/portfolio/static/media/trivia.a3082cf7.png"
+  }
+}
