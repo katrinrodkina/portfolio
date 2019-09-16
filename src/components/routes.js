@@ -21,7 +21,9 @@ class Routes extends Component {
         <Route path="/portfolio/contact" component={Contact} />
         <Route path="/projects" component={Projects} />
         <Route path="/portfolio/projects" component={Projects} />
+        <Route path="/resume" component={Resume} />
         <Route path="/portfolio/resume" component={Resume} />
+     
        
 
        </Switch>

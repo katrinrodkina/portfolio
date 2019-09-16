@@ -9,7 +9,8 @@ class Resume extends Component {
         <Grid className="resume-grid">
           <Cell col={6}>
        <div> Download Resume </div> 
-        
+          <a href= {resume}   download><i class="far fa-file"></i>
+          </a>
 </Cell>
           </Grid>
             </div>
