@@ -16,10 +16,12 @@ class Routes extends Component {
         <Route exact path="/" component={Main} />
         <Route exact path="/portfolio" component={Main} />
         <Route path="/aboutme" component={Main} />
+        <Route path="/portfolio/aboutme" component={Main} />
         <Route path="/contact" component={Contact} />
+        <Route path="/portfolio/contact" component={Contact} />
         <Route path="/projects" component={Projects} />
         <Route path="/portfolio/projects" component={Projects} />
-        <Route path="/resume" component={Resume} />
+        <Route path="/portfolio/resume" component={Resume} />
        
 
        </Switch>
