@@ -3,6 +3,7 @@ import "./App.css";
 import {Layout, Header, Navigation, Drawer, Content } from 'react-mdl'
 import {Link} from 'react-router-dom'
 import Routes from './components/routes'
+import Main from './components/Main'
 
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
         </Drawer>
         <Content>
             <div className="page-content"  />
+            <Main />
             <Routes  />
         </Content>
     </Layout>
