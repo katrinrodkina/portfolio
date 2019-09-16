@@ -29,10 +29,10 @@ function App() {
         </Drawer>
         <Content>
             <div className="page-content"  />
-        
+            <Main />
             <Routes  />
 
-          flgkjslrgkj;slgkjsr;lgkjrel;
+       
         </Content>
     </Layout>
 </div>
