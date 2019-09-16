@@ -57,7 +57,7 @@ class Projects extends Component {
             towards that project in comparrison to other users.
             <br /> <br />● Built with React-DnD, React/Redux, Node/Express,
             PostgreSQL, Sequelize, Socket.io, D3.js, Reactstrap, Moment.js,
-            OAuththis is plkfgnalfna;
+            OAuth;
           </CardText>
           <CardActions border>
           <Button colored>
