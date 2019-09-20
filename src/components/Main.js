@@ -9,18 +9,24 @@ class Main extends Component {
         <Grid style={{ background: "#222A68" }}>
           <Cell col={12}>
             <div className="avatar">
-              <img src={avatar} alt="avatar" style={{ width: "14%" }} />
+              <img src={avatar} alt="avatar" style={{ width: "12%" }} />
             </div>
             <div className="banner-text">
               <h1>Full Stack Web Developer</h1>
  <hr  />  
+ <div id='myDescription'>
+ Fullstack Software developer with experience building both front-end and back-end of web apps.
+I have experience using NERD (Node, Express, React, Database/SQL) Stack.
+<br  />
+A self-starter, fast learner, and enthusiastic individual who is eager to join a team of developers.
+   </div>
               <p className="skills">
-                <i class="fab  fa-3xfa-html5"></i>{" "}
-                <i class="fab  fa-3x fa-css3-alt"></i>
-                <i class="fab  fa-3x fa-js-square"></i>{" "}
-                <i class="fab  fa-3x fa-react"></i>
-                <i class="fab fa-3x fa-node"></i>
-                <i class="fab  fa-3x fa-git-square"></i>
+                <i className="fab  fa-3xfa-html5"></i>{" "}
+                <i className="fab  fa-3x fa-css3-alt"></i>
+                <i className="fab  fa-3x fa-js-square"></i>{" "}
+                <i className="fab  fa-3x fa-react"></i>
+                <i className="fab fa-3x fa-node"></i>
+                <i className="fab  fa-3x fa-git-square"></i>
               </p>
               <div className="social-links">
                 <div>
@@ -29,7 +35,7 @@ class Main extends Component {
                     target="_blank"  rel="noopener noreferrer"
                   >
                     <i
-                      class="fab fa-3x fa-linkedin"
+                      className="fab fa-3x fa-linkedin"
                       id="lin"
                       aria-hidden="true"
                     ></i>
@@ -37,7 +43,7 @@ class Main extends Component {
                 </div>
                 <div>
                   <a href="https://github.com/katrinrodkina" target="_blank"  rel="noopener noreferrer">
-                    <i class="fab fa-3x fa-github" aria-hidden="true"></i>
+                    <i className="fab fa-3x fa-github" aria-hidden="true"></i>
                   </a>
                 </div>
               </div>

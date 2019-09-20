@@ -12,8 +12,14 @@
   align-items: center;
 }
 
+#myDescription {
+ color:white; 
+ text-align: center;
+ font-size: 1.2em;
+ margin-top:15px;
+}
+
 .banner-text {
-  background-color: black;
   opacity: .8;
   width: 75%;
   margin:auto;
@@ -26,7 +32,8 @@
   color: white;
   font-family:  'Roboto Mono', monospace;
   letter-spacing: 8px;
-  padding-left: 40px;
+  text-align: center;
+ 
 }
 
 .banner-text hr {
@@ -51,8 +58,8 @@
   display: flex;
   justify-content: space-around;
   flex-direction: row;
- padding-bottom: 20px;
-  font-size: 2em;
+  padding-bottom: 20px;
+  font-size: 1.4em;
   
  
 }

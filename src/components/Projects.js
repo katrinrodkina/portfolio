@@ -8,8 +8,6 @@ import {
   CardTitle,
   CardActions,
   Button,
-  CardMenu,
-  IconButton,
   CardText
 } from "react-mdl";
 
