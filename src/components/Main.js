@@ -12,6 +12,7 @@ class Main extends Component {
               <img src={avatar} alt="avatar" style={{ width: "12%" }} />
             </div>
             <div className="banner-text">
+            <h1 style={{fontSize:'30px'}}> Katrina Rodkina <br  /> </h1>
               <h1>Full Stack Web Developer</h1>
  <hr  />  
  <div id='myDescription'>

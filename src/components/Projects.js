@@ -37,7 +37,8 @@ class Projects extends Component {
           >
             Timey
           </CardTitle>
-          <CardText>
+          <CardText
+          >
             ● Project management board with accountability.
             <br /> ● It allows users to create projects, add, remove edit and
             assign tickets to users. Users can track the time it takes to
