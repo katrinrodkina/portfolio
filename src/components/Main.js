@@ -16,8 +16,7 @@ class Main extends Component {
               <h1>Full Stack Web Developer</h1>
  <hr  />  
  <div id='myDescription'>
- Fullstack Software developer with experience building both front-end and back-end of web apps.
-I have experience using NERD (Node, Express, React, Database/SQL) Stack.
+ Fullstack Software developer with experience building both front-end and back-end of web apps using NERD (Node, Express, React, Database/SQL) Stack.
 <br  />
 A self-starter, fast learner, and enthusiastic individual who is eager to join a team of developers.
    </div>

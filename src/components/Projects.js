@@ -26,11 +26,11 @@ class Projects extends Component {
   toggleCategories = () => {
     if (this.state.activeTab === 0) {
       return (
-        <Card shadow={5} style={{ minWidth: "450px", margin: "auto" }}>
+        <Card shadow={5} style={{ minWidth: "600px", margin: "auto" }}>
           <CardTitle   className='projectPicBackground'
             style={{
               color: "#fff",
-              height: "176px",
+              height: "250px",
               background: `url(${timey})`,
               backgroundSize: "100%"
             }}
@@ -40,7 +40,7 @@ class Projects extends Component {
           <CardText
           >
             ● Project management board with accountability.
-            <br /> ● It allows users to create projects, add, remove edit and
+            <br   /> ● It allows users to create projects, add, remove edit and
             assign tickets to users. Users can track the time it takes to
             complete a ticket with a timer that is provided on each ticket.
             <br /> ● Tickets can be dragged between the columns.
@@ -77,12 +77,21 @@ class Projects extends Component {
                 Github
               </a>
             </Button>
+            <Button colored>
+              <a
+                style={{ textDecorationLine: "none" }}
+                href="https://vimeo.com/user102951878/review/360385584/2465bdf2ff"
+                target="_blank"  rel="noopener noreferrer"
+              >
+                Link to Video
+              </a>
+            </Button>
           </CardActions>
         </Card>
       );
     } else if (this.state.activeTab === 1) {
       return (
-        <Card shadow={5} style={{ minWidth: "450px", margin: "auto" }}>
+        <Card shadow={5} style={{ minWidth: "600px", margin: "auto" }}>
           <CardTitle   className='projectPicBackground'
             style={{
               color: "#fff",
@@ -125,7 +134,7 @@ class Projects extends Component {
       );
     } else if (this.state.activeTab === 2) {
       return (
-        <Card shadow={5} style={{ minWidth: "450px", margin: "auto" }}>
+        <Card shadow={5} style={{ minWidth: "600px", margin: "auto" }}>
           <CardTitle  className='projectPicBackground'
             style={{
               color: "#fff",
@@ -166,7 +175,7 @@ class Projects extends Component {
       );
     } else if (this.state.activeTab === 3) {
       return (
-        <Card shadow={5} style={{ minWidth: "450px", margin: "auto" }}>
+        <Card shadow={5} style={{ minWidth: "600px", margin: "auto" }}>
         <CardTitle className='projectPicBackground'
           style={{
             color: "#fff",
