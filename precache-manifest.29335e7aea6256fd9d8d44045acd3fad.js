@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95042caaf0be65f7a484873f00998f63",
+    "revision": "f98f6dce2fd952dc7946de7721a0f85e",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.60a6b8e0.chunk.css"
   },
   {
-    "revision": "dcd2cd011b808a18970e",
+    "revision": "a6bdc14f2ad9ed36d817",
     "url": "/portfolio/static/css/main.42066a03.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.02c77435.chunk.js"
   },
   {
-    "revision": "dcd2cd011b808a18970e",
-    "url": "/portfolio/static/js/main.95ff173a.chunk.js"
+    "revision": "a6bdc14f2ad9ed36d817",
+    "url": "/portfolio/static/js/main.a273be52.chunk.js"
   },
   {
     "revision": "255cf37ac81f61801b31",
     "url": "/portfolio/static/js/runtime~main.36963274.js"
   },
   {
-    "revision": "3479539878d630bbeddc4c407d3d2be9",
-    "url": "/portfolio/static/media/KatrinaRodkina-Resume.34795398.pdf"
+    "revision": "6c883c2568744702b54303f2f95c5825",
+    "url": "/portfolio/static/media/KatrinaRodkina-Resume.6c883c25.pdf"
   },
   {
     "revision": "ebb86f63bfb77505dc1c10a4cdd9ac89",
